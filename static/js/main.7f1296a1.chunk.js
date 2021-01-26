@@ -11,7 +11,7 @@
                 u = c(3),
                 j = c(16),
                 b = c.n(j),
-                g = c.p + "../media/logo.e6ecab44.png",
+                g = c.p + "././static/media/logo.e6ecab44.png",
                 m = function() { return Object(a.jsx)("header", { className: "text-center bg-green-600 py-4 mb-20", children: Object(a.jsx)("img", { className: "inline-block h-20", src: g, alt: "" }) }) },
                 p = function(e) { var t = e.item; return Object(a.jsxs)("div", { className: "max-w-lg rounded overflow-hidden shadow-lg mb-3", children: [Object(a.jsx)("img", { className: "w-full", src: t.img, alt: "" }), Object(a.jsxs)("div", { className: "px-6 py-4", children: [Object(a.jsxs)("h1", { children: ["Name: ", t.name] }), Object(a.jsxs)("p", { children: [Object(a.jsx)("strong", { children: "Category:" }), " ", t.category] })] })] }) },
                 h = c.p + "static/media/spinner.11d9cde8.gif",
